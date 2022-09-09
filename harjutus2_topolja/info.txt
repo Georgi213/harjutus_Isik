@@ -1,0 +1,3 @@
+tootaja, TTHK, õpetaja, Vladimir, 1989, Mees, 500, 1100, 20, 
+opilane, TTHK, TARPV20, õpilane, Georgi, 2003, Mees, 0, 0, 0, 
+kutsekooliopilane, 60, Tallinn, 450, 3, 4,5, THK, tarkvara arendaja, TARPV20, Aleksei, 2004, Mees, 0, 0, 0, 
